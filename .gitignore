@@ -1,0 +1,22 @@
+# Retry files
+*.retry
+
+# Vault password
+.vault_pass
+
+# Inventory cache
+.cache/
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.envrc
+
+# OS
+.DS_Store
+Thumbs.db
