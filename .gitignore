@@ -7,6 +7,9 @@
 # Inventory cache
 .cache/
 
+# Fact cache
+tmp/
+
 # Python
 *.pyc
 __pycache__/
