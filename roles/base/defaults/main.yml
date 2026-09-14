@@ -1,0 +1,5 @@
+---
+base_timezone: Etc/UTC
+
+base_journal_max_use: 200M
+base_journal_max_file_size: 20M
